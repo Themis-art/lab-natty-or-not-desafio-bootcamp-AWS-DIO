@@ -24,8 +24,7 @@ Ao longo do projeto, o leitor será guiado por uma narrativa inspiradora, que o 
 
 Espera-se que este recurso educacional ajude os desenvolvedores a adquirirem as habilidades necessárias para utilizar o Git e o GitHub de forma eficaz em seus projetos, incentivando-os a explorar novas possibilidades e a contribuir para a comunidade de código aberto.
 
-Que a Força esteja com todos em sua jornada de aprendizado e crescimento no universo do desenvolvimento de software!
-
+Que a Força acompanhe a todos em sua jornada de aprendizado e evolução no vasto universo do desenvolvimento de software!
 
  
 
